@@ -415,8 +415,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
     * [ipdb](https://pypi.python.org/pypi/ipdb) - IPython-enabled [pdb](https://docs.python.org/2/library/pdb.html).
     * [pudb](https://pypi.python.org/pypi/pudb) - A full-screen, console-based Python debugger.
     * [pyringe](https://github.com/google/pyringe) - Debugger capable of attaching to and injecting code into Python processes.
-    * [wdb](https://github.com/Kozea/wdb) - An improbable web debugger through 
-    .
+    * [wdb](https://github.com/Kozea/wdb) - An improbable web debugger through WebSockets.
     * [winpdb](http://winpdb.org/) - A Python Debugger with GUI, capable of remote debugging based on `rpdb2`.
 * Profiler
     * [line_profiler](https://github.com/rkern/line_profiler) - Line-by-line profiling.
