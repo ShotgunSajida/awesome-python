@@ -415,7 +415,8 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
     * [ipdb](https://pypi.python.org/pypi/ipdb) - IPython-enabled [pdb](https://docs.python.org/2/library/pdb.html).
     * [pudb](https://pypi.python.org/pypi/pudb) - A full-screen, console-based Python debugger.
     * [pyringe](https://github.com/google/pyringe) - Debugger capable of attaching to and injecting code into Python processes.
-    * [wdb](https://github.com/Kozea/wdb) - An improbable web debugger through WebSockets.
+    * [wdb](https://github.com/Kozea/wdb) - An improbable web debugger through 
+    .
     * [winpdb](http://winpdb.org/) - A Python Debugger with GUI, capable of remote debugging based on `rpdb2`.
 * Profiler
     * [line_profiler](https://github.com/rkern/line_profiler) - Line-by-line profiling.
@@ -1176,6 +1177,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 *Libraries for working with WebSocket.*
 
 * [AutobahnPython](https://github.com/crossbario/autobahn-python) - WebSocket & WAMP for Python on Twisted and [asyncio](https://docs.python.org/3/library/asyncio.html).
+* [channels](https://github.com/django/channels) - Pluggable Django app for WebSocket, long-poll HTTP, task offloading and other asynchrony support to your code.
 * [Crossbar](https://github.com/crossbario/crossbar/) - Open-source Unified Application Router (Websocket & WAMP for Python on Autobahn).
 * [django-socketio](https://github.com/stephenmcd/django-socketio) - WebSockets for Django.
 * [WebSocket-for-Python](https://github.com/Lawouach/WebSocket-for-Python) - WebSocket client and server library for Python 2 and 3 as well as PyPy.
